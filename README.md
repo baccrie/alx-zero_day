@@ -1,2 +1,2 @@
 My first readme
-Doimg the hard rhings really sucks.
+Doing the hard things really sucks.
